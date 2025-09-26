@@ -75,7 +75,9 @@ Step 10 : Obtain the plan for given problem.<br>
 ### Output/Plan:
 <img width="1396" height="680" alt="image" src="https://github.com/user-attachments/assets/4edf4bfc-913c-45f3-9b3e-12b30a4da8b0" />
 <img width="1288" height="688" alt="image" src="https://github.com/user-attachments/assets/24ae72dd-f8c0-4c3e-9e71-1168d3a2fae1" />
+
 ### PROBLEM 2:
+
 ```
 (define (problem pb3)
   (:domain blocksworld)
@@ -102,10 +104,15 @@ Step 10 : Obtain the plan for given problem.<br>
   )
 )
 ```
+
 ### Output/Plan:
+
 <img width="1296" height="696" alt="image" src="https://github.com/user-attachments/assets/e4f84174-15a9-4995-a8f5-e76a7e47caa2" />
+
 <img width="1361" height="700" alt="image" src="https://github.com/user-attachments/assets/6e23563e-3b36-47fb-830e-30509a90f27d" />
+
 <img width="1313" height="696" alt="image" src="https://github.com/user-attachments/assets/58a0d847-e2f9-452a-8ed0-e19a669597e8" />
+
 <img width="1265" height="716" alt="image" src="https://github.com/user-attachments/assets/62449233-3e25-4643-8ee0-c1ec3dca0833" />
 
 
